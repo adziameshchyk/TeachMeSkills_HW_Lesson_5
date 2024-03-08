@@ -9,6 +9,7 @@ public class Runner {
         CreditCard creditCard2 = new CreditCard(1231352332, 100);
         CreditCard creditCard3 = new CreditCard(12, 150);
 
+
         creditCard1.addMoney(150);
         creditCard2.addMoney(200);
         creditCard3.withdrawMoney(100);

@@ -3,6 +3,7 @@ package com.tms.classes_and_objects.manddatory_tasks.task_0.credit_card;
 public class CreditCard {
 
     public long accountNumber;
+
     public long balance;
 
     public CreditCard(long accountNumber, long balance) {

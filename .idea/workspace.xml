@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b7113831-13f8-4bf2-b7a9-9d3e5154b197" name="Changes" comment="Added solutions to problem number 0.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/credit_card/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/credit_card/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/runner/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="82e1ce5f-db46-47b8-ba71-c7acd60871e9" />
+        <option name="url" value="https://github.com/adziameshchyk/TeachMeSkills_HW_Lesson_5" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,7 +96,7 @@
       <updated>1709796816907</updated>
       <workItem from="1709796818318" duration="1504000" />
       <workItem from="1709838434832" duration="2968000" />
-      <workItem from="1709930054927" duration="743000" />
+      <workItem from="1709930054927" duration="1602000" />
     </task>
     <task id="LOCAL-00001" summary="Added solutions to problem number 0.">
       <created>1709889730111</created>
@@ -90,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709889730111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added solutions to problem number 0.">
+      <created>1709932739526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709932739526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7113831-13f8-4bf2-b7a9-9d3e5154b197" name="Changes" comment="Added solutions to problem number 0.">
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/runner/Runner.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7113831-13f8-4bf2-b7a9-9d3e5154b197" name="Changes" comment="Added solutions to problem number 1." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -48,11 +47,11 @@
     </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -174,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added solutions to problem number 0." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added solutions to problem number 0." />
+    <MESSAGE value="Added solutions to problem number 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solutions to problem number 1." />
   </component>
 </project>

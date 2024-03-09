@@ -1,4 +1,4 @@
-package com.tms.classes_and_objects.additional_tasks.task_1.models.computer;
+package com.tms.classes_and_objects.extra_credit_task.task_3.models.computer;
 
 public class Computer {
 
@@ -6,19 +6,23 @@ public class Computer {
     public String model;
     public RAM ram;
     public HDD hdd;
+    public TypeOfComputer type;
 
-    public Computer(int price, String model) {
+    public Computer(int price, String model, TypeOfComputer type) {
         this.price = price;
         this.model = model;
+        this.type = type;
         this.ram = new RAM();
         this.hdd = new HDD();
     }
 
-    public Computer(int price, String model, RAM ram, HDD hdd) {
+    public Computer(int price, String model, RAM ram, HDD hdd, TypeOfComputer type) {
         this.price = price;
         this.model = model;
         this.ram = ram;
         this.hdd = hdd;
+        this.type = type;
+
     }
 
     @Override

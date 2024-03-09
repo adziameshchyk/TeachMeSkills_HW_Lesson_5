@@ -1,4 +1,4 @@
-package com.tms.classes_and_objects.additional_tasks.task_1.models.computer;
+package com.tms.classes_and_objects.extra_credit_task.task_3.models.computer;
 
 public class HDD {
 

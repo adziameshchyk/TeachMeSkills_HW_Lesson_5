@@ -6,14 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b7113831-13f8-4bf2-b7a9-9d3e5154b197" name="Changes" comment="Added completed task number 2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_1/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_1/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/models/atm/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/models/atm/ATM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/HDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/HDD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/RAM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/TypeOfComputer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/models/computer/TypeOfComputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/manddatory_tasks/task_0/runner/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,31 +76,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/JavaLearn/Lessons/4. Многомерные массивы/Домашнее задание/TMSHomeWorkLesson4",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JavaLearn/Lessons/4. Многомерные массивы/Домашнее задание/TMSHomeWorkLesson4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JavaLearn\Lessons\5. Классы и объекты\Домашнее задание\TMSHomeWorkLesson5\src\com\tms\classes_and_objects\extra_credit_task" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.tms.classes_and_objects.extra_credit_task.task_3.runner.Runner">
+  <component name="RunManager" selected="Application.com.tms.classes_and_objects.additional_tasks.task_2.runner.Runner">
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tms.classes_and_objects.manddatory_tasks.task_0.runner.Runner" />
       <module name="TMSHomeWorkLesson5" />
@@ -148,8 +142,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.tms.classes_and_objects.extra_credit_task.task_3.runner.Runner" />
         <item itemvalue="Application.com.tms.classes_and_objects.additional_tasks.task_2.runner.Runner" />
+        <item itemvalue="Application.com.tms.classes_and_objects.extra_credit_task.task_3.runner.Runner" />
         <item itemvalue="Application.Runner" />
       </list>
     </recent_temporary>
@@ -167,6 +161,7 @@
       <workItem from="1709930054927" duration="1880000" />
       <workItem from="1709980861372" duration="6027000" />
       <workItem from="1709989002874" duration="298000" />
+      <workItem from="1710066802151" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="Added solutions to problem number 0.">
       <created>1709889730111</created>
@@ -251,7 +246,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/models/atm/ATM.java</url>
-          <line>53</line>
+          <line>51</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

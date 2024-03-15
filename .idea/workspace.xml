@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7113831-13f8-4bf2-b7a9-9d3e5154b197" name="Changes" comment="Added completed task number 2.">
+    <list default="true" id="b7113831-13f8-4bf2-b7a9-9d3e5154b197" name="Changes" comment="Fixed bags in task number 2.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/models/atm/ATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/models/atm/ATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/additional_tasks/task_2/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tms/classes_and_objects/extra_credit_task/task_3/runner/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +161,11 @@
       <workItem from="1709930054927" duration="1880000" />
       <workItem from="1709980861372" duration="6027000" />
       <workItem from="1709989002874" duration="298000" />
-      <workItem from="1710066802151" duration="1204000" />
+      <workItem from="1710066802151" duration="2070000" />
+      <workItem from="1710094770031" duration="766000" />
+      <workItem from="1710106571381" duration="161000" />
+      <workItem from="1710140664313" duration="23000" />
+      <workItem from="1710489383480" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Added solutions to problem number 0.">
       <created>1709889730111</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709985705897</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Fixed bags in task number 2.">
+      <created>1710068190138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710068190138</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +250,8 @@
     <MESSAGE value="Added solutions to problem number 0." />
     <MESSAGE value="Added solutions to problem number 1." />
     <MESSAGE value="Added completed task number 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added completed task number 2." />
+    <MESSAGE value="Fixed bags in task number 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed bags in task number 2." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

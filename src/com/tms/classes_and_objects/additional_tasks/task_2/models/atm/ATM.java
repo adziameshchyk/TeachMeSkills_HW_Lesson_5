@@ -32,7 +32,7 @@ public class ATM {
             return false;
         } else {
             int[] numberBanknotesWhenIssued = getNumberOfBanknotesWhenIssued(amount);
-            long amountToWithdrawn = numberBanknotesWhenIssued[0] * 20 + numberBanknotesWhenIssued[1] * 50 + numberBanknotesWhenIssued[2] * 100;
+            long amountToWithdrawn = numberBanknotesWhenIssued[0] * 20 + numberBanknotesWhenIssued[1] * 50 + numberBanknotesWhenIssued[2] * 100\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\;
 
             System.out.println("the amount of " + amountToWithdrawn + " was successfully issued.");
             printBillsToBeIssued(numberBanknotesWhenIssued);

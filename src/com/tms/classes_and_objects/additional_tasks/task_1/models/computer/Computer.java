@@ -13,7 +13,6 @@ public class Computer {
         this.ram = new RAM();
         this.hdd = new HDD();
     }
-//loll
 
     public Computer(int price, String model, RAM ram, HDD hdd) {
         this.price = price;
@@ -21,7 +20,6 @@ public class Computer {
         this.ram = ram;
         this.hdd = hdd;
     }
-	
 
     @Override
     public String toString() {
